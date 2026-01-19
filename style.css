@@ -174,10 +174,10 @@ nav h2{
     gap: 20px;
 }
 .btn-1:hover{
-    width: 300px;
-    transition: width 2s;
+    width: 350px;
+    transition: width 1s;
 }
 .btn-2:hover{
      width: 300px;
-    transition: width 2s;
+    transition: width 1s;
 }
