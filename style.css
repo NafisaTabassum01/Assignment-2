@@ -941,9 +941,9 @@ footer{
 .img-mic{
   width: 100px;
   position: absolute;
-  top: 50%;
+  top: 51%;
   /* top: 230px; */
-  left: 39%;
+  left: 38%;
   transform: scale(1); 
   /* padding: 0; */
   /* margin: 0 auto; */
